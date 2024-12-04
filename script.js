@@ -9,10 +9,10 @@ const surprises = [
 
 // Array of image paths
 const pictures = [
-    "pictures/sam3.jpg",
-    "pictures/sam4.jpg",
-    "pictures/sam2.jpg",
-    "pictures/sam1.jpg"
+    "sam3.jpg",
+    "sam4.jpg",
+    "sam2.jpg",
+    "sam1.jpg"
 
 ];
 
